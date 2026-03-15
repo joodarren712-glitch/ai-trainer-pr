@@ -1,5 +1,10 @@
 streamlit==1.32.0
 groq
 pypdf
-st-gsheets-connection
+streamlit-gsheets
 pandas
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+cryptography
